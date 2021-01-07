@@ -84,7 +84,13 @@ header img {
     height: var(--header-height);
 }
 
-
+.logo {
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: initial
+}
 
 content {
     width: 80%;
